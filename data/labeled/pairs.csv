@@ -1,0 +1,65 @@
+resume_id,jd_id,label,note
+ml_engineer,ml_engineer_jd,1,perfect fit
+ml_engineer,data_scientist_jd,1,strong overlap (ML + stats + Python)
+ml_engineer,nlp_engineer_jd,1,relevant overlap (DL + NLP + PyTorch)
+ml_engineer,backend_dev_jd,0,wrong domain (ML vs backend web)
+ml_engineer,frontend_dev_jd,0,wrong domain (ML vs frontend)
+ml_engineer,embedded_engineer_jd,0,wrong domain (ML vs embedded HW)
+ml_engineer,devops_engineer_jd,0,weak overlap (Docker/AWS only)
+ml_engineer,fullstack_dev_jd,0,weak overlap (Python shared but different focus)
+data_scientist,data_scientist_jd,1,perfect fit
+data_scientist,ml_engineer_jd,1,strong overlap (ML + Python + stats)
+data_scientist,nlp_engineer_jd,0,partial overlap but lacks DL/NLP depth
+data_scientist,frontend_dev_jd,0,wrong domain
+data_scientist,backend_dev_jd,0,wrong domain
+data_scientist,embedded_engineer_jd,0,wrong domain
+data_scientist,devops_engineer_jd,0,wrong domain
+data_scientist,fullstack_dev_jd,0,weak overlap (Python/SQL shared but different role)
+frontend_dev,frontend_dev_jd,1,perfect fit
+frontend_dev,backend_dev_jd,1,strong overlap (Node/TS/REST/Docker)
+frontend_dev,fullstack_dev_jd,1,strong overlap (React/TS/REST)
+frontend_dev,ml_engineer_jd,0,wrong domain
+frontend_dev,data_scientist_jd,0,wrong domain
+frontend_dev,nlp_engineer_jd,0,wrong domain
+frontend_dev,embedded_engineer_jd,0,wrong domain
+frontend_dev,devops_engineer_jd,0,weak overlap (GitHub Actions/Docker only)
+embedded_engineer,embedded_engineer_jd,1,perfect fit
+embedded_engineer,ml_engineer_jd,0,wrong domain
+embedded_engineer,nlp_engineer_jd,0,wrong domain
+embedded_engineer,frontend_dev_jd,0,wrong domain
+embedded_engineer,backend_dev_jd,0,wrong domain
+embedded_engineer,data_scientist_jd,0,wrong domain
+embedded_engineer,devops_engineer_jd,0,weak overlap (Linux only)
+embedded_engineer,fullstack_dev_jd,0,wrong domain
+backend_dev,backend_dev_jd,1,perfect fit
+backend_dev,frontend_dev_jd,1,partial overlap (JS/TS/REST/Git/AWS)
+backend_dev,fullstack_dev_jd,1,strong overlap (Python/React/Docker/SQL)
+backend_dev,devops_engineer_jd,1,strong overlap (Docker/K8s/Terraform/AWS)
+backend_dev,ml_engineer_jd,0,weak overlap (Python/Docker shared but wrong domain)
+backend_dev,data_scientist_jd,0,weak overlap (Python/SQL shared but wrong domain)
+backend_dev,nlp_engineer_jd,0,wrong domain
+backend_dev,embedded_engineer_jd,0,wrong domain
+devops_engineer,devops_engineer_jd,1,perfect fit
+devops_engineer,backend_dev_jd,1,strong overlap (Docker/K8s/AWS/CI-CD)
+devops_engineer,ml_engineer_jd,0,weak overlap (Docker/AWS but no ML)
+devops_engineer,data_scientist_jd,0,wrong domain
+devops_engineer,frontend_dev_jd,0,wrong domain
+devops_engineer,nlp_engineer_jd,0,weak overlap (Docker only)
+devops_engineer,embedded_engineer_jd,0,weak overlap (Linux/bash only)
+devops_engineer,fullstack_dev_jd,0,weak overlap (Docker/AWS but lacks dev skills)
+nlp_researcher,nlp_engineer_jd,1,perfect fit
+nlp_researcher,ml_engineer_jd,1,strong overlap (PyTorch/DL/Python)
+nlp_researcher,data_scientist_jd,1,partial overlap (Python/stats/ML)
+nlp_researcher,frontend_dev_jd,0,wrong domain
+nlp_researcher,backend_dev_jd,0,wrong domain
+nlp_researcher,embedded_engineer_jd,0,wrong domain
+nlp_researcher,devops_engineer_jd,0,wrong domain
+nlp_researcher,fullstack_dev_jd,0,wrong domain
+fullstack_dev,fullstack_dev_jd,1,perfect fit
+fullstack_dev,frontend_dev_jd,1,strong overlap (React/TS/HTML/CSS)
+fullstack_dev,backend_dev_jd,1,strong overlap (Node/Django/REST/SQL)
+fullstack_dev,data_scientist_jd,0,weak overlap (Python/SQL but wrong focus)
+fullstack_dev,ml_engineer_jd,0,weak overlap (Python shared but no ML)
+fullstack_dev,devops_engineer_jd,0,weak overlap (Docker/AWS only)
+fullstack_dev,nlp_engineer_jd,0,wrong domain
+fullstack_dev,embedded_engineer_jd,0,wrong domain

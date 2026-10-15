@@ -1,0 +1,22 @@
+Priya Sharma
+Data Scientist | priya.sharma@example.com
+
+SUMMARY
+Data scientist with 2 years of experience in statistical modelling and exploratory data analysis,
+applied to retail and finance datasets.
+
+EXPERIENCE
+Data Scientist, FinSight Analytics (2022–present)
+- Built credit risk models using logistic regression and gradient boosting (XGBoost, LightGBM).
+  Reduced false-positive rate by 14% on the production scoring service.
+- Performed exploratory data analysis on transaction data using pandas, NumPy, and Plotly;
+  built dashboards in Streamlit for the business team.
+- Designed A/B tests and computed lift estimates with proper confidence intervals.
+- Wrote efficient SQL queries against a 4TB PostgreSQL warehouse; maintained dbt models.
+
+SKILLS
+Python, R, SQL, statistics, data analysis, data visualization, scikit-learn, XGBoost,
+pandas, NumPy, matplotlib, seaborn, Plotly, machine learning, feature engineering, Git, AWS.
+
+EDUCATION
+M.Sc Statistics, ISI Bangalore, 2022.

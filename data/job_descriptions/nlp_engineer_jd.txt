@@ -1,0 +1,24 @@
+NLP Engineer
+Hamburg · Full-time
+
+About us
+We build search and document understanding systems for the legal industry.
+
+What you'll do
+- Design and train natural language processing models for entity recognition, classification, and semantic search.
+- Work with large language models (open-source) and sentence-transformer embeddings.
+- Build production NLP pipelines using spaCy, HuggingFace Transformers, and PyTorch.
+- Improve retrieval quality via prompt design, fine-tuning, and embedding-based search.
+- Deploy models with Docker on AWS and monitor latency and quality.
+
+Requirements
+- 2+ years working on NLP problems professionally.
+- Strong Python skills.
+- Hands-on experience with PyTorch or TensorFlow, HuggingFace, and spaCy.
+- Experience with deep learning, neural networks, and transformers.
+- Familiarity with Docker, Git, Linux, and at least one cloud platform.
+
+Bonus
+- Experience with sentence transformers or similar embedding models.
+- Exposure to information retrieval and search ranking.
+- Background in machine learning research.

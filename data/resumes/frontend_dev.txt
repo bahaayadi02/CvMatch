@@ -1,0 +1,20 @@
+Karan Mehta
+Frontend Developer | karan.mehta@example.com | karanmehta.dev
+
+EXPERIENCE
+Frontend Developer, BlueWave Studio (2022–present)
+- Built responsive web applications in React and Next.js, with TypeScript across a 30K-line codebase.
+- Implemented design systems with Tailwind CSS; collaborated closely with designers in Figma.
+- Wrote unit and integration tests with Jest and React Testing Library; maintained 80%+ coverage.
+- Set up CI/CD with GitHub Actions deploying to Vercel and AWS S3+CloudFront.
+
+PROJECTS
+- E-commerce storefront (Next.js, Stripe, Tailwind) handling 5K daily users.
+- Real-time chat app using Node.js, Express, and WebSocket.
+
+SKILLS
+JavaScript, TypeScript, React, Next.js, Vue, HTML, CSS, Tailwind, Node.js, Express,
+REST APIs, GraphQL, Git, GitHub Actions, AWS, unit testing, agile, scrum.
+
+EDUCATION
+B.E. Information Technology, VIT Vellore, 2022.

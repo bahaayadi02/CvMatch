@@ -1,0 +1,20 @@
+Aditya Verma
+ML Engineer | aditya.verma@example.com | github.com/aditya
+
+EXPERIENCE
+Junior ML Engineer, ContosoTech (2023–present)
+- Built and deployed Python-based machine learning pipelines for customer churn prediction using scikit-learn and XGBoost.
+- Trained deep learning models in PyTorch for image classification on a dataset of 200K product photos; improved top-1 accuracy from 78% to 86%.
+- Deployed models behind a FastAPI service running in Docker on AWS; set up CI/CD with GitHub Actions.
+- Worked with PostgreSQL and Redis for feature stores; used Git for version control across a 6-person team.
+
+PROJECTS
+- NLP sentiment classifier using HuggingFace transformers and spaCy preprocessing; deployed as a Streamlit demo.
+- Time-series forecasting on energy consumption data using pandas, NumPy, and statsmodels.
+
+SKILLS
+Python, SQL, scikit-learn, PyTorch, TensorFlow, pandas, NumPy, machine learning, deep learning,
+natural language processing, Docker, AWS, Git, Linux, FastAPI, REST APIs, statistics.
+
+EDUCATION
+B.Tech, Computer Science, IIT Madras, 2023.

@@ -1,0 +1,25 @@
+Data Scientist
+Munich · Hybrid
+
+The role
+We're looking for a data scientist to work on customer analytics and pricing models for our
+e-commerce platform.
+
+Responsibilities
+- Conduct exploratory data analysis on large transaction datasets using Python (pandas, NumPy).
+- Build statistical and machine learning models for customer segmentation and demand forecasting.
+- Design and analyse A/B tests; present findings to non-technical stakeholders.
+- Write efficient SQL queries against our data warehouse.
+- Build interactive dashboards and visualisations for the business team.
+
+Required skills
+- 2+ years in a data science or analytics role.
+- Strong proficiency in Python and SQL.
+- Solid grounding in statistics, hypothesis testing, and machine learning.
+- Experience with scikit-learn, pandas, and a visualisation library (matplotlib, seaborn, or Plotly).
+- Excellent communication; able to explain results to non-technical audiences.
+
+Nice to have
+- Experience with R, XGBoost, or LightGBM.
+- Familiarity with cloud platforms (AWS or GCP) and Git.
+- Experience with dashboarding tools such as Streamlit, Tableau, or Looker.

@@ -1,0 +1,25 @@
+Embedded Systems Engineer
+Stuttgart · Full-time
+
+The role
+We design and build hardware for industrial automation. We're looking for an embedded
+engineer to develop firmware and signal-processing pipelines on our next-generation controller.
+
+What you'll do
+- Develop firmware in C and C++ for ARM Cortex-M microcontrollers.
+- Implement real-time signal-processing algorithms; some work on FPGA in VHDL or Verilog.
+- Design and review schematics and PCB layouts.
+- Work with communication protocols including I2C, SPI, UART, CAN, and Modbus.
+- Debug hardware and software using oscilloscopes, logic analysers, and JTAG.
+
+Required
+- B.Sc/M.Sc in Electrical Engineering, Electronics, or related.
+- 2+ years of professional embedded development experience.
+- Strong C/C++; familiarity with microcontrollers and real-time operating systems.
+- Comfort with Linux, Git, and shell scripting.
+- Knowledge of analog and digital electronics.
+
+Nice to have
+- Experience with FPGA design (VHDL or Verilog).
+- IoT experience (MQTT, ESP32, etc.).
+- MATLAB for algorithm prototyping.

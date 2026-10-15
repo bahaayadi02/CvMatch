@@ -1,0 +1,27 @@
+DevOps Engineer
+Frankfurt · Full-time
+
+About the role
+We are looking for a DevOps engineer to build and maintain our cloud infrastructure
+and deployment pipelines across AWS and GCP.
+
+Responsibilities
+- Design, build, and maintain CI/CD pipelines for microservice deployments.
+- Manage Kubernetes clusters, Helm charts, and container orchestration.
+- Automate infrastructure provisioning using Terraform and Ansible.
+- Set up monitoring, logging, and alerting with Prometheus and Grafana.
+- Containerise applications with Docker; troubleshoot production incidents.
+- Collaborate with development teams to improve deployment velocity and reliability.
+
+Required skills
+- 3+ years of professional DevOps or SRE experience.
+- Strong knowledge of Docker, Kubernetes, and at least one cloud platform (AWS or GCP).
+- Experience with Terraform or similar infrastructure-as-code tools.
+- Solid Linux administration and shell scripting (Bash).
+- Familiarity with CI/CD tools (Jenkins, GitHub Actions, or GitLab CI).
+- Good understanding of networking fundamentals.
+
+Nice to have
+- Experience with Go or Python for tooling and automation.
+- Ansible or configuration management experience.
+- Exposure to service mesh (Istio, Linkerd).

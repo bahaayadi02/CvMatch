@@ -1,0 +1,23 @@
+Samira Nouri
+Backend Developer | samira.nouri@example.com | github.com/samira-n
+
+EXPERIENCE
+Backend Developer, PayStream GmbH (2022–present)
+- Designed and maintained REST APIs and GraphQL endpoints in Node.js and TypeScript serving 2M requests/day.
+- Built microservices architecture using Express and Fastify; migrated monolith to 12 independent services.
+- Managed PostgreSQL and Redis clusters; optimised slow queries reducing p99 latency by 35%.
+- Deployed services on Docker and Kubernetes on AWS EKS; wrote Terraform modules for infrastructure.
+- Implemented CI/CD pipelines with GitHub Actions; integrated automated testing and linting.
+- Wrote Python scripts for data migration and batch processing tasks using pandas.
+
+PROJECTS
+- Open-source rate-limiter library for Express (200+ GitHub stars).
+- Personal finance tracker with Django REST framework and React frontend.
+
+SKILLS
+Node.js, TypeScript, JavaScript, Python, Express, Django, REST API, GraphQL, microservices,
+PostgreSQL, Redis, MongoDB, Docker, Kubernetes, Terraform, AWS, Git, Linux, CI/CD,
+GitHub Actions, unit testing, agile, scrum, code review.
+
+EDUCATION
+B.Sc Computer Science, TU Berlin, 2022.

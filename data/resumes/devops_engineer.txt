@@ -1,0 +1,23 @@
+Lars Henriksen
+DevOps Engineer | lars.henriksen@example.com
+
+EXPERIENCE
+DevOps Engineer, CloudScale Solutions (2021–present)
+- Built and maintained CI/CD pipelines using Jenkins, GitHub Actions, and GitLab CI for 40+ microservices.
+- Managed Kubernetes clusters on AWS EKS and GCP GKE; wrote Helm charts and Kustomize overlays.
+- Automated infrastructure provisioning with Terraform and Ansible across multi-cloud environments.
+- Configured monitoring and alerting with Prometheus, Grafana, and PagerDuty; reduced MTTR by 60%.
+- Containerised legacy Java and Python applications with Docker; migrated 15 services to K8s.
+- Wrote Bash and Python scripts for log analysis, deployment automation, and incident response.
+
+PROJECTS
+- Self-hosted GitLab runner cluster on bare-metal servers with Ansible automation.
+- Kubernetes operator in Go for automated database backup and restore.
+
+SKILLS
+Docker, Kubernetes, Terraform, Ansible, AWS, GCP, Jenkins, GitHub Actions, GitLab CI,
+CI/CD, Linux, Bash, Python, Go, Git, Prometheus, Grafana, microservices,
+shell scripting, agile, networking.
+
+EDUCATION
+B.Sc Systems Engineering, RWTH Aachen, 2021.

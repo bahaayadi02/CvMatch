@@ -1,0 +1,25 @@
+Machine Learning Engineer
+Berlin · Full-time
+
+About the role
+We are hiring a Machine Learning Engineer to join our recommendation systems team.
+You will design, train, and deploy production ML models that serve millions of users daily.
+
+What you'll do
+- Build end-to-end machine learning pipelines in Python using scikit-learn and PyTorch.
+- Train deep learning models for ranking and recommendation; iterate based on offline metrics and online A/B tests.
+- Deploy models behind low-latency services using Docker, Kubernetes, and AWS.
+- Set up CI/CD pipelines and monitor model performance in production.
+- Collaborate with data scientists, software engineers, and product managers.
+
+Requirements
+- 2+ years of professional experience as an ML or data engineer.
+- Strong Python skills; comfortable with pandas, NumPy, and at least one deep learning framework (PyTorch or TensorFlow).
+- Working knowledge of SQL and at least one cloud platform (AWS, GCP, or Azure).
+- Familiar with Docker, Git, and Linux.
+- Solid foundation in machine learning, statistics, and feature engineering.
+
+Nice to have
+- Experience deploying models with FastAPI or similar.
+- Exposure to MLOps tooling (MLflow, Weights & Biases).
+- Background in NLP or computer vision.

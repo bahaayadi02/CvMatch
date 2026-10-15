@@ -1,0 +1,25 @@
+Frontend Developer
+Remote (EU) · Full-time
+
+The role
+We're building a SaaS analytics product and need a frontend developer to lead the
+user-facing side of the application.
+
+Responsibilities
+- Build responsive, accessible web interfaces in React and TypeScript.
+- Implement designs in Figma into pixel-perfect components using Tailwind CSS.
+- Write unit and integration tests with Jest and React Testing Library.
+- Collaborate with backend engineers on REST API and GraphQL contracts.
+- Set up and maintain CI/CD with GitHub Actions.
+
+Must have
+- 2+ years building production React applications.
+- Strong knowledge of JavaScript, TypeScript, HTML, and CSS.
+- Experience with Next.js or a similar React meta-framework.
+- Familiarity with Tailwind CSS, Git, and modern tooling.
+- Experience writing tests and working in agile/scrum teams.
+
+Nice to have
+- Experience with Vue or other frontend frameworks.
+- Some Node.js / Express knowledge for full-stack contributions.
+- Exposure to AWS or other cloud platforms.

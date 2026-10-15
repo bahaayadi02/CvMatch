@@ -1,0 +1,28 @@
+Full-Stack Developer
+Berlin · Hybrid
+
+The role
+We are building an internal analytics platform and need a full-stack developer who can
+own features end-to-end, from database schema to user-facing UI.
+
+Responsibilities
+- Build interactive dashboards and data visualisation components in React and TypeScript.
+- Design and implement backend REST APIs in Python (Django or FastAPI).
+- Write and optimise SQL queries against PostgreSQL; manage database migrations.
+- Deploy and maintain applications using Docker on AWS.
+- Write automated tests and participate in code reviews.
+- Work in agile sprints with product managers and designers.
+
+Required skills
+- 2+ years of full-stack development experience.
+- Strong Python skills; experience with Django, Flask, or FastAPI.
+- Proficient in JavaScript/TypeScript and React.
+- Solid SQL skills with PostgreSQL or similar relational databases.
+- Experience with Docker, Git, and CI/CD pipelines.
+- Comfortable with HTML, CSS, and responsive design.
+
+Nice to have
+- Experience with Node.js or Express.
+- Familiarity with MongoDB or Redis.
+- Exposure to AWS or other cloud platforms.
+- Data visualisation experience (D3.js, Plotly, or similar).

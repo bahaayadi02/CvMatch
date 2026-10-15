@@ -1,0 +1,23 @@
+Alex Chen
+Full-Stack Developer | alex.chen@example.com | alexchen.dev
+
+EXPERIENCE
+Full-Stack Developer, Finova Technologies (2021–present)
+- Built customer-facing dashboards in React and TypeScript with a Django REST backend.
+- Designed and maintained PostgreSQL schemas; wrote complex SQL queries for analytics features.
+- Developed Python data pipelines for aggregating financial data from third-party APIs.
+- Deployed applications using Docker on AWS EC2 and RDS; configured Nginx as reverse proxy.
+- Led migration from JavaScript to TypeScript across 50K lines of frontend code.
+- Participated in agile sprints; conducted code reviews for a 5-person engineering team.
+
+PROJECTS
+- Budget tracking SaaS app (React, Django, PostgreSQL) with 1K monthly active users.
+- CLI tool in Python for automating invoice generation from CSV data.
+
+SKILLS
+Python, JavaScript, TypeScript, React, Django, Node.js, Express, HTML, CSS,
+PostgreSQL, MongoDB, Redis, REST API, Docker, AWS, Git, Linux,
+SQL, unit testing, agile, scrum, CI/CD.
+
+EDUCATION
+B.Sc Software Engineering, University of Toronto, 2021.

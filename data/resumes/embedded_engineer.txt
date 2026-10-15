@@ -1,0 +1,22 @@
+Rahul Iyer
+Embedded Systems Engineer | rahul.iyer@example.com
+
+EXPERIENCE
+Embedded Engineer, Nexus Robotics (2022–present)
+- Developed firmware in C and C++ for ARM Cortex-M microcontrollers used in industrial sensors.
+- Designed digital and analog circuits; reviewed PCB layouts in Altium.
+- Implemented real-time signal processing on FPGA using VHDL; reduced latency by 40%.
+- Worked with communication protocols including I2C, SPI, UART, CAN, and Modbus.
+- Used Linux on embedded targets; wrote bash scripts for the build pipeline.
+
+PROJECTS
+- IoT temperature monitor with ESP32 and MQTT, deployed across 50 nodes.
+- Custom motor controller using STM32 and field-oriented control.
+
+SKILLS
+C, C++, embedded systems, microcontrollers, VHDL, Verilog, FPGA, signal processing,
+control systems, PCB design, analog electronics, digital electronics, IoT, MATLAB,
+Arduino, Raspberry Pi, communication systems, Linux, Git, bash.
+
+EDUCATION
+B.Tech Electronics and Communication Engineering, NIT Trichy, 2022.

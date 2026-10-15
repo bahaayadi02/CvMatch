@@ -1,0 +1,33 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Generated outputs — regenerate by running scripts/evaluate.py
+results/*.csv
+results/*.png
+results/*.md
+results/*.json
+
+# Sentence-Transformer model cache (downloaded on first run)
+.cache/
+~/.cache/
+
+# Keep folder structure even when empty
+!data/resumes/.gitkeep
+!data/job_descriptions/.gitkeep
+!data/labeled/.gitkeep
+!results/.gitkeep
+
+.env
+.DS_Store
+.vscode/
+.idea/
+venv/
+.venv/
+scratch/
+*.log
+*.aux
+*.out
+*.toc
+*.fls
+*.fdb_latexmk

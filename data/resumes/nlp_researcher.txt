@@ -1,0 +1,24 @@
+Dr. Elena Vasquez
+NLP Research Scientist | elena.vasquez@example.com | scholar.google.com/elena
+
+EXPERIENCE
+Research Scientist, LangTech AI Lab (2021–present)
+- Conducted research on transformer architectures for low-resource language understanding tasks.
+- Fine-tuned large language models including BERT, RoBERTa, and T5 for domain-specific NER and classification.
+- Published 3 papers on few-shot learning for information extraction at ACL and EMNLP.
+- Built evaluation frameworks for NLP model benchmarking using PyTorch and HuggingFace Transformers.
+- Developed custom tokenizers and preprocessing pipelines using spaCy and NLTK.
+- Mentored two junior researchers on experiment design and paper writing.
+
+PROJECTS
+- Multilingual sentiment analysis system covering 12 languages using sentence transformers.
+- Knowledge graph construction pipeline from unstructured clinical text.
+
+SKILLS
+Python, PyTorch, TensorFlow, natural language processing, deep learning, machine learning,
+transformers, large language models, HuggingFace, spaCy, NLTK, sentence transformers,
+neural networks, statistics, linear algebra, data analysis, Git, Linux, Docker.
+
+EDUCATION
+Ph.D. Computational Linguistics, University of Edinburgh, 2021.
+M.Sc Artificial Intelligence, University of Amsterdam, 2017.

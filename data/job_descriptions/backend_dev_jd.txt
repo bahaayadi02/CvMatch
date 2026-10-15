@@ -1,0 +1,24 @@
+Backend Developer
+Berlin · Hybrid
+
+About the role
+We are hiring a backend developer to build and scale our payments platform.
+
+Responsibilities
+- Design and implement REST APIs and GraphQL endpoints in Node.js and TypeScript.
+- Work with PostgreSQL and Redis for transactional and caching workloads.
+- Build microservices deployed via Docker and Kubernetes on AWS.
+- Write unit and integration tests; participate in code review.
+- Collaborate with frontend developers, product managers, and SREs.
+
+Required skills
+- 3+ years of professional backend development experience.
+- Strong knowledge of Node.js, Express, TypeScript, and REST APIs.
+- Solid SQL skills with PostgreSQL.
+- Experience with Docker, Git, and Linux.
+- Familiarity with agile/scrum and CI/CD.
+
+Nice to have
+- GraphQL experience.
+- Exposure to Kubernetes and microservice architectures.
+- Some frontend experience (React or Vue).
